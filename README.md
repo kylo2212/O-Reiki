@@ -5,4 +5,3 @@ This website was created to complete a Web Development Class for college. I have
 
 The content of the website is something that I personally have been taught to do so it does mean something to me and I would like to expand on this better as well. 
 
-So many things I want to do to make this better sometime but not sure when yet.
